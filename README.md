@@ -15,11 +15,9 @@
 
 ## 👋 About Me
 
-I am a **Software Tester and Automation QA Engineer** focused on building reliable, maintainable test automation and growing toward **SDET / Quality Engineering**.
+I am a **Software Tester and Automation QA Engineer** with hands-on experience across manual testing and UI automation, focused on building reliable, maintainable quality practices and growing toward **SDET / Quality Engineering**.
 
-My experience combines manual testing with UI automation, API validation, performance testing, SQL, test management, and practical end-to-end quality workflows.
-
-<img src="assets/qa-automation.gif.svg" alt="Animated QA tagline" width="100%" />
+My portfolio focuses on Java/Selenium automation, TestNG, Cucumber BDD, API testing, SQL/database validation, performance testing, and practical end-to-end QA workflows.
 
 ## 🧰 Technical Stack
 
@@ -27,19 +25,19 @@ My experience combines manual testing with UI automation, API validation, perfor
 |---|---|
 | **Languages** | Java, SQL |
 | **UI Automation** | Selenium WebDriver, TestNG, Cucumber BDD, POM |
-| **API Testing** | Postman, Newman |
+| **API Testing** | Postman, Newman, REST API testing |
 | **Performance** | JMeter, Locust |
 | **Test Management** | Jira, Xray, Azure DevOps |
 | **Build & Version Control** | Maven, Git, GitHub |
 | **Development** | IntelliJ IDEA |
 
-## 🧪 Testing & QA
+## 🧪 QA & Testing
 
 - Functional, regression, system, acceptance, and end-to-end testing
 - Test scenario and test-case design
-- Defect identification, reporting, and validation
+- Defect identification, reporting, and verification
 - UI and API testing
-- Database / SQL validation
+- SQL / database validation
 - Automation framework design with Page Object Model
 - BDD with Gherkin and Cucumber
 - Performance testing and basic performance analysis
@@ -47,19 +45,25 @@ My experience combines manual testing with UI automation, API validation, perfor
 
 ## 🚀 Featured Automation Work
 
-### Royal Grant Automation
+### [Royal Grant Automation](https://github.com/MahmodHelal/Royal-Grant-Automation)
 
 **Java · Selenium WebDriver · Cucumber · TestNG · Maven · POM · Allure**
 
 End-to-end automation of a multi-stage grant workflow with reusable Page Objects, Cucumber scenarios, TestNG execution, configuration, reporting, and cross-step transaction handling.
 
-### CRM Automation Test Suite
+### [CRM Automation Test Suite](https://github.com/MahmodHelal/CRM-Automation-Test)
 
 **Java · Selenium WebDriver · TestNG · Maven · POM**
 
-UI automation focused on authentication, navigation, business-data workflows, form validation, positive/negative scenarios, and regression coverage.
+UI automation focused on authentication, navigation, business-data workflows, form validation, positive/negative scenarios, test-data handling, and regression-oriented coverage.
 
-## 🎯 Current Direction
+### [nopCommerce E-Commerce Test Automation](https://github.com/MahmodHelal/Amit_52proj)
+
+**Java · Selenium WebDriver · Cucumber · TestNG · Maven**
+
+A BDD-oriented e-commerce automation project covering registration, product search, cart, and checkout journeys.
+
+## 🎯 Career Direction
 
 ```text
 Software Testing
@@ -73,25 +77,15 @@ API + Performance + CI/CD
 SDET / Quality Engineering
 ```
 
-I am particularly interested in **modern browser automation, stronger automation architecture, API automation, CI/CD, performance engineering, and AI-assisted testing**.
+Current learning direction includes **modern browser automation, TypeScript, stronger automation architecture, API automation, CI/CD, performance engineering, and AI-assisted testing**.
 
 ## 📜 Certification
 
-**ISTQB Certified Tester — Foundation Level (CTFL)**
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahmodHelal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Mahmoud Helal GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmodHelal&layout=compact&hide_border=true" alt="Mahmoud Helal top languages" />
-
-</div>
+**ISTQB Certified Tester — Foundation Level (CTFL v4.0)**
 
 ## 🤝 Let's Connect
 
-I am open to opportunities and conversations around **Software Testing, Automation QA, SDET, and Quality Engineering**.
+Open to opportunities and professional conversations around **Software Testing, Automation QA, SDET, and Quality Engineering**.
 
 <div align="center">
 
